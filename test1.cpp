@@ -2,6 +2,7 @@
 
 using namespace std;
 
+// add a comment
 int main()
 {
   cout << "This is a test for Git" << endl;
@@ -11,3 +12,4 @@ int main()
 }
 
   
+// this is another comment, but with echo
